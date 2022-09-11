@@ -1,0 +1,22 @@
+{
+  "name": "geodb-islamicities",
+  "version": "1.0.0",
+  "description": "dari GeoDB Cities dari RapidAPI.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islamicity/GeoDB-IslamiCities.git"
+  },
+  "author": "Benn Al Islamicity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islamicity/GeoDB-IslamiCities/issues"
+  },
+  "homepage": "https://github.com/islamicity/GeoDB-IslamiCities#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
